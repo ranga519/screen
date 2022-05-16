@@ -1,0 +1,7 @@
+caption always 
+caption string "%{kw}%-w%{wr}%n %t%{-}%+w"
+termcapinfo xterm* ti@:te@  
+term xterm-256color
+#term screen-256color
+
+startup_message off
